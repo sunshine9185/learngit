@@ -5,3 +5,4 @@ Creating a new branch is quick.
 switch test.
 Creating a new branch is quick and simple.
 add merge.
+modified in branch dev.
